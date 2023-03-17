@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\MCUXpressoIDE_11.6.0_8187\workspace_2\frdmk64f\mbedtls_benchmark\CMSIS/core_cm4.h:1809:22:__NVIC_SetPriority	8	static
+C:\Users\HP\Documents\MCUXpressoIDE_11.6.0_8187\workspace_2\frdmk64f\mbedtls_benchmark\CMSIS/core_cm4.h:2017:26:SysTick_Config	16	static
+../source/benchmark.c:290:12:myrand	32	static
+../source/benchmark.c:329:6:ecp_clear_precomputed	24	static
+../source/benchmark.c:353:12:set_ecp_curve	24	static
+../source/benchmark.c:387:6:SysTick_Handler	0	static
+../source/benchmark.c:392:17:benchmark_mbedtls_timing_hardclock	72	static
+../source/benchmark.c:408:13:benchmark_mbedtls_set_alarm	40	static
+../source/benchmark.c:414:13:benchmark_mbedtls_poll_alarm	8	static
+../source/benchmark.c:423:6:hash_sha256	16	static
+../source/benchmark.c:439:6:cypher_message_chacha20	976	static
+../source/benchmark.c:485:6:Signing_Hash_ECDSA	312	static
+../source/benchmark.c:577:5:main	4344	static
